@@ -44,5 +44,3 @@ docs/_build
 
 # Virtualenvs
 env/
-.DS_Store
-venv/
